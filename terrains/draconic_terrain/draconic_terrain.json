@@ -900,8 +900,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "forge": 16,
-            "scale": 11
+            "forge": 8,
+            "scale": 6
           },
           "forbidden": {},
           "essential": {
@@ -1130,10 +1130,10 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "heart": 4,
-            "winter": 6,
-            "sky": 4,
-            "forge": 4
+            "heart": 5,
+            "winter": 7,
+            "sky": 5,
+            "forge": 5
           },
           "forbidden": {},
           "essential": {
@@ -1160,10 +1160,10 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "nectar": 15,
-            "winter": 13,
-            "knock": 11,
-            "grail": 11
+            "nectar": 7,
+            "winter": 8,
+            "knock": 8,
+            "grail": 8
           },
           "forbidden": {},
           "essential": {
@@ -1648,8 +1648,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "forge": 13,
-            "sky": 13
+            "forge": 8,
+            "sky": 6
           },
           "forbidden": {},
           "essential": {
@@ -1795,7 +1795,7 @@
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
             "winter": 8,
-            "lantern": 6
+            "lantern": 7
           },
           "forbidden": {},
           "essential": {
@@ -1822,8 +1822,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "winter": 9,
-            "lantern": 8
+            "winter": 8,
+            "lantern": 10
           },
           "forbidden": {},
           "essential": {
@@ -2529,8 +2529,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "scale": 7,
-            "heart": 8
+            "scale": 5,
+            "heart": 6
           },
           "forbidden": {},
           "essential": {
@@ -2998,8 +2998,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "grail": 4,
-            "sky": 4
+            "grail": 8,
+            "sky": 6
           },
           "forbidden": {},
           "essential": {
