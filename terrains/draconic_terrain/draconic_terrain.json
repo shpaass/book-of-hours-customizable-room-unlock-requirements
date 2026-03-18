@@ -12,8 +12,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "lantern": 14,
-            "knock": 17
+            "lantern": 7,
+            "knock": 7
           },
           "forbidden": {},
           "essential": {
@@ -469,9 +469,9 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "winter": 21,
-            "lantern": 16,
-            "moon": 22
+            "winter": 14,
+            "lantern": 12,
+            "moon": 9
           },
           "forbidden": {},
           "essential": {
@@ -1101,9 +1101,9 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "winter": 20,
-            "forge": 20,
-            "edge": 15
+            "winter": 9,
+            "forge": 9,
+            "edge": 7
           },
           "forbidden": {},
           "essential": {
@@ -1508,8 +1508,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "heart": 10,
-            "edge": 11
+            "heart": 8,
+            "edge": 8
           },
           "forbidden": {},
           "essential": {
@@ -1536,8 +1536,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "heart": 10,
-            "grail": 11
+            "heart": 9,
+            "grail": 8
           },
           "forbidden": {},
           "essential": {
@@ -1564,8 +1564,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "heart": 20,
-            "rose": 14
+            "heart": 10,
+            "rose": 9
           },
           "forbidden": {},
           "essential": {
@@ -1907,8 +1907,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "sky": 6,
-            "heart": 6
+            "sky": 9,
+            "heart": 10
           },
           "forbidden": {},
           "essential": {
@@ -1935,8 +1935,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "moth": 8,
-            "heart": 10
+            "moth": 6,
+            "heart": 9
           },
           "forbidden": {},
           "essential": {
@@ -1963,8 +1963,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "moth": 9,
-            "heart": 11
+            "moth": 8,
+            "heart": 9
           },
           "forbidden": {},
           "essential": {
@@ -1991,8 +1991,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "heart": 12,
-            "sky": 13
+            "heart": 9,
+            "sky": 7
           },
           "forbidden": {},
           "essential": {
@@ -2048,8 +2048,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "lantern": 15,
-            "heart": 15
+            "lantern": 10,
+            "heart": 9
           },
           "forbidden": {},
           "essential": {
@@ -2301,10 +2301,10 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "lantern": 16,
-            "knock": 17,
-            "forge": 23,
-            "edge": 19
+            "lantern": 9,
+            "knock": 7,
+            "forge": 9,
+            "edge": 7
           },
           "forbidden": {},
           "essential": {
@@ -2359,8 +2359,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "grail": 7,
-            "nectar": 7
+            "grail": 12,
+            "nectar": 11
           },
           "forbidden": {},
           "essential": {
@@ -2613,8 +2613,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "moon": 12,
-            "rose": 12
+            "moon": 9,
+            "rose": 8
           },
           "forbidden": {},
           "essential": {
@@ -3139,9 +3139,9 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "forge": 21,
-            "lantern": 15,
-            "sky": 18
+            "forge": 10,
+            "lantern": 10,
+            "sky": 8
           },
           "forbidden": {},
           "essential": {
