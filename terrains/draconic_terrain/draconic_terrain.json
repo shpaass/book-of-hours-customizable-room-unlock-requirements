@@ -1397,7 +1397,7 @@
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
             "edge": 8,
-            "winter": 8
+            "winter": 12
           },
           "forbidden": {},
           "essential": {
@@ -1704,14 +1704,24 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "lantern": 3,
-            "scale": 3,
-            "heart": 3,
-            "forge": 3
+            "heart": 6,
+            "lantern": 6,
+            "forge": 5,
+            "scale": 3
           },
-          "forbidden": {},
+          "forbidden": {
+            "exalted.memory": 1,
+            "edge": 1,
+            "moon": 1,
+            "moth": 1,
+            "winter": 1
+          },
           "essential": {
-            "assistance": 1
+            "assistance": 1,
+            "exalted.beverage": 1,
+            "exalted.sustenance": 1,
+            "exalted.tool": 1,
+            "exalted.collaboration": 1
           }
         }
       ],
@@ -2189,8 +2199,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "winter": 7,
-            "moth": 7
+            "winter": 12,
+            "moth": 8
           },
           "forbidden": {},
           "essential": {
@@ -2273,8 +2283,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "edge": 11,
-            "nectar": 12
+            "edge": 9,
+            "nectar": 11
           },
           "forbidden": {},
           "essential": {
@@ -2443,8 +2453,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "grail": 23,
-            "nectar": 21
+            "grail": 11,
+            "nectar": 11
           },
           "forbidden": {},
           "essential": {
@@ -2942,8 +2952,8 @@
           "label": "#UI_ROOMINPUT_LABEL#",
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
-            "knock": 6,
-            "scale": 6
+            "knock": 8,
+            "scale": 7
           },
           "forbidden": {},
           "essential": {

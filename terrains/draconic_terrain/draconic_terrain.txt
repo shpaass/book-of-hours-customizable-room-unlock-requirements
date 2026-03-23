@@ -7,4 +7,5 @@ Tips to make your life easier:
 * Don't bash your head trying to unlock a room unless you don't have any other important room to unlock.
 
 Opinions that I had during the balancing:
-* Unusual Help is a boring mechanic and should be required only at the endgame rooms. If you do the math, you'll see that it takes more than a day of rolling help to get a certain helper with 80%+ probability.
+* Unusual Help is a boring mechanic and should be required only at the endgame rooms. 
+  If you do the math, you'll see that it takes more than a day of rolling help to get a certain helper with 80%+ probability, which is repetitive and not fun to do.
