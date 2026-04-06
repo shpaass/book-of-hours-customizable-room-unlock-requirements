@@ -502,9 +502,9 @@
           "essential": {
             "assistance": 1,
             "exalted.omen": 1,
-            "sky": 6,
-            "forge": 6,
-            "lantern": 6
+            "sky": 4,
+            "forge": 2,
+            "lantern": 3
           }
         }
       ],
@@ -2739,12 +2739,15 @@
           "description": "#UI_ROOMINPUT_DESCRIPTION#",
           "required": {
             "lantern": 10,
-            "heart": 10,
-            "winter": 10
           },
-          "forbidden": {},
+          "forbidden": {
+              "forge": 1
+          },
           "essential": {
-            "assistance": 1
+            "assistance": 1,
+            "exalted.candle": 1,
+            "heart": 1,
+            "winter": 1
           }
         }
       ],
